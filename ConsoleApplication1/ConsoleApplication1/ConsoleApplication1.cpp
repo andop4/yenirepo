@@ -10,6 +10,7 @@ using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {
 	cout << "yeni repo" << endl;
+	cout << "degisiklik" << endl;
 	return 0;
 }
 
